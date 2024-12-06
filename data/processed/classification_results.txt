@@ -1,0 +1,25 @@
+SVM (RBF):
+	Accuracy: 0.6818
+	Precision: 0.4946
+	Recall: 0.6818
+	F1-Score: 0.5650
+Random Forest:
+	Accuracy: 0.6818
+	Precision: 0.6591
+	Recall: 0.6818
+	F1-Score: 0.6568
+Gradient Boosting:
+	Accuracy: 0.5455
+	Precision: 0.5455
+	Recall: 0.5455
+	F1-Score: 0.5455
+Logistic Regression:
+	Accuracy: 0.6818
+	Precision: 0.4946
+	Recall: 0.6818
+	F1-Score: 0.5650
+LDA:
+	Accuracy: 0.7273
+	Precision: 0.8270
+	Recall: 0.7273
+	F1-Score: 0.6562

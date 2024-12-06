@@ -1,0 +1,62 @@
+Target miRNA column names: ['mean_mir146a', 'mean_mir146b', 'mean_mir155', 'mean_mir203', 'mean_mir223', 'mean_mir381p']
+GAPDH column name: mean_GAPDH
+Clinical parameter column names: ['pocket_depth', 'bleeding_on_probing', 'number_of_missing_teeth']
+Grouping variable column name: GROUP
+DataFrame shape: (108, 15)
+Data types of each column:
+GROUP                       object
+SEX                         object
+AGE                          int64
+plaque_index               float64
+gingival_index             float64
+pocket_depth               float64
+bleeding_on_probing        float64
+number_of_missing_teeth      int64
+mean_mir146a               float64
+mean_mir146b               float64
+mean_mir155                float64
+mean_mir203                float64
+mean_mir223                float64
+mean_mir381p               float64
+mean_GAPDH                 float64
+dtype: object
+Descriptive statistics:
+              AGE  plaque_index  gingival_index  pocket_depth  \
+count  108.000000    108.000000      108.000000    108.000000   
+mean    25.675926      1.085000        1.128148      2.702407   
+std      5.257533      0.695629        0.600366      0.977869   
+min     20.000000      0.050000        0.100000      1.630000   
+25%     22.000000      0.460000        0.692500      1.980000   
+50%     24.000000      0.930000        1.075000      2.230000   
+75%     28.000000      1.602500        1.585000      3.500000   
+max     49.000000      2.700000        2.760000      4.800000   
+
+       bleeding_on_probing  number_of_missing_teeth  mean_mir146a  \
+count           108.000000               108.000000    108.000000   
+mean             31.713704                 0.648148     34.421883   
+std              27.895287                 1.061781      3.162117   
+min               0.000000                 0.000000     29.423333   
+25%               8.727500                 0.000000     30.823333   
+50%              20.500000                 0.000000     36.526667   
+75%              50.440000                 1.000000     36.844167   
+max             100.000000                 4.000000     38.580000   
+
+       mean_mir146b  mean_mir155  mean_mir203  mean_mir223  mean_mir381p  \
+count    108.000000   108.000000   108.000000   108.000000    108.000000   
+mean      34.489136    34.430031    34.829537    34.782191     34.819969   
+std        3.121471     3.172652     3.402100     3.462504      3.403867   
+min       29.583333    29.696667    29.630000    29.240000     29.106667   
+25%       30.837500    30.644167    30.895000    30.741667     30.792500   
+50%       36.540000    36.571667    37.255000    37.168333     37.183333   
+75%       36.880000    36.871667    37.567500    37.607500     37.590000   
+max       38.400000    38.826667    39.013333    38.933333     38.656667   
+
+       mean_GAPDH  
+count  108.000000  
+mean    34.595093  
+std      2.588130  
+min     30.476667  
+25%     31.499167  
+50%     36.471667  
+75%     36.770833  
+max     37.730000  

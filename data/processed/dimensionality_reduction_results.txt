@@ -1,0 +1,2 @@
+PCA Explained Variance Ratio: [0.98685167 0.0049961 ]
+LDA Explained Variance Ratio: [0.98860331 0.01139669]
