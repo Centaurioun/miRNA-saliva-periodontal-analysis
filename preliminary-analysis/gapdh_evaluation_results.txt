@@ -1,0 +1,20 @@
+ANOVA results:
+F-value: 190.1557984607637
+P-value: 0.01319960009787498
+
+Tukey HSD post hoc test results:
+Multiple Comparison of Means - Tukey HSD, FWER=0.05 
+====================================================
+group1 group2 meandiff p-adj   lower   upper  reject
+----------------------------------------------------
+     G      P  -4.5173    0.0 -5.1983 -3.8363   True
+     G      S    0.587 0.1056 -0.0939   1.268  False
+     P      S   5.1044    0.0  4.4234  5.7853   True
+----------------------------------------------------
+
+Pearson correlations with clinical parameters:
+plaque_index: correlation = -0.6613594588079212, pvalue = 6.660874928738492e-15
+gingival_index: correlation = -0.6050463234556163, pvalue = 4.050913533216578e-12
+pocket_depth: correlation = -0.8144497122924288, pvalue = 8.266633403249708e-27
+bleeding_on_probing: correlation = -0.7547603509933236, pvalue = 3.974813866233714e-21
+number_of_missing_teeth: correlation = -0.23781358997316487, pvalue = 0.01319960009787498

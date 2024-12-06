@@ -1,0 +1,11 @@
+ANOVA results: F-statistic = 190.16, p-value = 0.000
+
+Tukey HSD Post Hoc Test Results:
+Multiple Comparison of Means - Tukey HSD, FWER=0.05 
+====================================================
+group1 group2 meandiff p-adj   lower   upper  reject
+----------------------------------------------------
+     G      P  -4.5173    0.0 -5.1983 -3.8363   True
+     G      S    0.587 0.1056 -0.0939   1.268  False
+     P      S   5.1044    0.0  4.4234  5.7853   True
+----------------------------------------------------

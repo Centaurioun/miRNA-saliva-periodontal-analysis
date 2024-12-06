@@ -1,0 +1,24 @@
+mean_mir146a:
+	test: Kruskal-Wallis
+	h_statistic: 57.562037980968285
+	pvalue: 3.1663744237361876e-13
+mean_mir146b:
+	test: Kruskal-Wallis
+	h_statistic: 59.27864129243729
+	pvalue: 1.342167121820417e-13
+mean_mir155:
+	test: Kruskal-Wallis
+	h_statistic: 60.03981767736192
+	pvalue: 9.173165819142718e-14
+mean_mir203:
+	test: Kruskal-Wallis
+	h_statistic: 52.90920572008991
+	pvalue: 3.2427387173410406e-12
+mean_mir223:
+	test: Kruskal-Wallis
+	h_statistic: 55.753136657436
+	pvalue: 7.822763494740479e-13
+mean_mir381p:
+	test: Kruskal-Wallis
+	h_statistic: 57.78270716886858
+	pvalue: 2.8355973614458723e-13

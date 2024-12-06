@@ -1,0 +1,9 @@
+Justification for Normalization Method:
+
+Based on the analysis of GAPDH expression, it was found that GAPDH Ct values show significant differences between the healthy, gingivitis, and periodontitis groups (as evidenced by the ANOVA and post hoc tests). Additionally, GAPDH Ct values exhibit strong correlations with clinical parameters such as probing depth and bleeding on probing.
+
+These findings suggest that GAPDH is not a stable reference gene for normalization in this dataset. Therefore, using raw Ct values for miRNA comparisons is justified. However, to ensure robustness and account for potential biases, robust scaling will be applied to the miRNA data as an alternative normalization method.
+
+Robust scaling centers and scales the data using robust statistics (median and interquartile range), which minimizes the influence of outliers and makes the data more comparable across different samples and groups.
+
+Both raw Ct values and robustly scaled Ct values will be used for initial analyses, and the results will be compared to assess the impact of normalization. If robust scaling provides more stable and reliable results, it will be prioritized for subsequent analyses and interpretations.
