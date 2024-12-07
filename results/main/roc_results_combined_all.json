@@ -1,0 +1,54 @@
+{
+    "combined_raw": {
+        "S vs G": {
+            "AUC": 0.4821428571428571,
+            "Optimal Cutoff": 0.4733246356706415,
+            "Sensitivity": 0.7142857142857143,
+            "Specificity": 0.5,
+            "Accuracy": 0.6,
+            "PR AUC": 0.4235106163677592
+        },
+        "S vs P": {
+            "AUC": 1.0,
+            "Optimal Cutoff": 0.8729428213637386,
+            "Sensitivity": 1.0,
+            "Specificity": 1.0,
+            "Accuracy": 1.0,
+            "PR AUC": 0.9999999999999998
+        },
+        "G vs P": {
+            "AUC": 1.0,
+            "Optimal Cutoff": 0.7286444727812597,
+            "Sensitivity": 1.0,
+            "Specificity": 1.0,
+            "Accuracy": 1.0,
+            "PR AUC": 0.9999999999999998
+        }
+    },
+    "combined_scaled": {
+        "S vs G": {
+            "AUC": 0.4821428571428571,
+            "Optimal Cutoff": 0.4731553555234236,
+            "Sensitivity": 0.7142857142857143,
+            "Specificity": 0.5,
+            "Accuracy": 0.6,
+            "PR AUC": 0.4235106163677592
+        },
+        "S vs P": {
+            "AUC": 1.0,
+            "Optimal Cutoff": 0.8742432726463589,
+            "Sensitivity": 1.0,
+            "Specificity": 1.0,
+            "Accuracy": 1.0,
+            "PR AUC": 0.9999999999999998
+        },
+        "G vs P": {
+            "AUC": 1.0,
+            "Optimal Cutoff": 0.7294911246835423,
+            "Sensitivity": 1.0,
+            "Specificity": 1.0,
+            "Accuracy": 1.0,
+            "PR AUC": 0.9999999999999998
+        }
+    }
+}

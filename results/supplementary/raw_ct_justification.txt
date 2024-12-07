@@ -1,9 +1,18 @@
 
 
+
+
+
 Justification for Raw Ct Analysis:
 
 
+
+
+
 Due to the observed significant variability of GAPDH expression across the study groups (ANOVA p-value: 0.000, Tukey HSD results showing significant intergroup differences and effect sizes, Supplementary Table S2), and its correlations with disease severity metrics (Supplementary Figure S1), GAPDH was deemed unsuitable as a reference gene for normalization. Using an unstable reference gene would introduce bias into the analysis, potentially confounding the observed differences in miRNA expression. Therefore, subsequent analyses were performed using raw Ct values. Raw Ct analysis provides a more transparent and unbiased approach when a reliable reference gene cannot be identified. This decision aligns with previous research highlighting the potential for reference gene instability in similar contexts, especially inflammatory conditions such as periodontitis (Dheda et al., 2004; Schmittgen and Zakrajsek, 2000; Li et al., 2019; Peng et al., 2012; Ye et al., 2018). While raw Ct analysis relies on the assumption of similar starting RNA amounts across samples, this limitation is mitigated by our quality control measures during sample processing and robust statistical analyses using non-parametric methods. The variability of GAPDH, as evidenced by its significant correlation with bleeding on probing (Supplementary Figure S1 and Supplementary Table S2), further supports the decision to not use it for normalization.
+
+
+
 
 
 Raw Ct analysis offers several advantages in this context. First, it avoids introducing additional bias or assumptions associated with alternative normalization methods. Second, it focuses on identifying miRNAs exhibiting relatively *large* fold-change differences between groups, where smaller variations introduced by a potentially unstable reference gene are less likely to significantly impact the overall conclusions. Third, the use of robust statistical methods, namely ANOVA followed by post hoc tests with Benjamini-Hochberg FDR correction for multiple comparisons and effect size calculations (Cohen's d), ensures rigorous comparisons of raw Ct values between groups. Despite its limitations, the transparency of raw Ct analysis combined with our rigorous statistical approach and the specific context of our study, makes it a suitable and reliable approach for identifying candidate miRNA biomarkers with altered expression in periodontal disease. If suitable alternative reference genes or normalization methods had been identified, these would have been used instead of the raw Ct approach.

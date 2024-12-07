@@ -1,0 +1,25 @@
+miRNA,F-statistic,p-value,Post Hoc p-values
+mean_mir146a,107.12830033791708,1.0157417212920654e-23,"  group1 group2  meandiff     p-adj   lower   upper  reject
+0      G      P   -0.7932  0.000000 -0.9688 -0.6176    True
+1      G      S    0.2417  0.004613  0.0646  0.4188    True
+2      P      S    1.0349  0.000000  0.8577  1.2120    True"
+mean_mir146b,108.68396420387593,6.5935320705917515e-24,"  group1 group2  meandiff    p-adj   lower   upper  reject
+0      G      P   -0.7851  0.00000 -0.9586 -0.6116    True
+1      G      S    0.2469  0.00329  0.0718  0.4219    True
+2      P      S    1.0320  0.00000  0.8570  1.2070    True"
+mean_mir155,113.31174522476728,1.871258953573891e-24,"  group1 group2  meandiff     p-adj   lower   upper  reject
+0      G      P   -0.7864  0.000000 -0.9551 -0.6178    True
+1      G      S    0.2346  0.004156  0.0644  0.4047    True
+2      P      S    1.0210  0.000000  0.8509  1.1911    True"
+mean_mir203,102.41046148935769,3.874028663875013e-23,"  group1 group2  meandiff     p-adj   lower   upper  reject
+0      G      P   -0.8000  0.000000 -0.9768 -0.6232    True
+1      G      S    0.2098  0.017006  0.0314  0.3881    True
+2      P      S    1.0098  0.000000  0.8314  1.1882    True"
+mean_mir223,106.59216941966908,1.180087099374058e-23,"  group1 group2  meandiff     p-adj   lower   upper  reject
+0      G      P   -0.7796  0.000000 -0.9486 -0.6106    True
+1      G      S    0.2053  0.014142  0.0348  0.3757    True
+2      P      S    0.9849  0.000000  0.8144  1.1554    True"
+mean_mir381p,108.7723707480334,6.4344552506832955e-24,"  group1 group2  meandiff     p-adj   lower   upper  reject
+0      G      P   -0.7580  0.000000 -0.9211 -0.5950    True
+1      G      S    0.2030  0.011548  0.0385  0.3676    True
+2      P      S    0.9611  0.000000  0.7965  1.1256    True"

@@ -1,0 +1,2 @@
+AUC,Optimal Cutoff,Sensitivity,Specificity,Accuracy,PR AUC,Comparison,DataType
+1.0,0.8729428213637386,1.0,1.0,1.0,0.9999999999999998,S vs P,combined_raw

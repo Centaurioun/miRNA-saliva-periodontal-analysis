@@ -1,0 +1,2 @@
+AUC,Optimal Cutoff,Sensitivity,Specificity,Accuracy,PR AUC,method
+1.0,0.8296877204129426,1.0,1.0,1.0,0.9999999999999998,combined_top_raw_scaled
